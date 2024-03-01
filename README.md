@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jota Collantes
-- 👀 I’m interested in Coding, JavaScript lover!
+- 👀 I’m interested in Coding, Fullstack lover!
 - 🌱 I’m constantly learning
