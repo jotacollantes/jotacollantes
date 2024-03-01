@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jota Collantes
+- 👀 I’m interested in Coding, JavaScript lover!
+- 🌱 I’m constantly learning
