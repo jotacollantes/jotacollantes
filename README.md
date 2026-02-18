@@ -53,7 +53,7 @@ A curated index of my projects organized by technology:
 
 ## 🧠 Core Stack
 
-`Node.js` · `TypeScript` · `Next.js` · `AWS` · `Serverless` · `PostgreSQL` · `Prisma` · `Odoo`
+`Node.js` · `TypeScript` · `Next.js` · `Nest.js` · `AWS` · `Serverless` · `PostgreSQL` · `Prisma` · `Python` · `Odoo`
 
 ---
 ## 📌 Featured Work
