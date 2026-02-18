@@ -6,10 +6,11 @@
 
 I design and develop production-ready applications with a strong focus on:
 
-- ⚙️ Backend architecture
-- ☁️ Serverless & Cloud (AWS)
-- 🔌 API integrations (Odoo, external systems)
-- 🧠 Clean code & scalable structures
+- ⚙️ Backend architecture & scalable systems
+- ☁️ Serverless & Cloud (Vercel, DigitalOcean, AWS)
+- 🔌 Business integrations (Odoo, external systems)
+- 💳 Payment gateway integrations (PayPal, Stripe, Payphone, Nuvei)
+- 🧠 Clean code & maintainable structures
 
 ---
 
@@ -29,33 +30,32 @@ A curated index of my projects organized by technology:
 
 <p align="left">
   <a href="https://github.com/orgs/J2-AWS-LAMBDA/repositories">
-    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/262396797?s=200&v=4" />
+    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/262396797?s=200&v=4" alt="AWS Lambda"/>
+   <strong>AWS Lambda & Serverless</strong>
   </a>
-  <strong>AWS Lambda & Serverless</strong>
 </p>
 
 <p align="left">
   <a href="https://github.com/J2-NEXTJS-PROJECTS">
-    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/170750849?s=200&v=4" />
+    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/170750849?s=200&v=4" alt="Next.js"/>
+   <strong>Next.js Applications</strong>
   </a>
-  <strong>Next.js Applications</strong>
 </p>
 
 <p align="left">
   <a href="https://github.com/J2-NODEJS-EXPRESS">
-    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/241236780?s=200&v=4" />
+    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/241236780?s=200&v=4" alt="Node.js"/>
+   <strong>Node.js / Express APIs</strong>
   </a>
-  <strong>Node.js / Express APIs</strong>
 </p>
 
 ---
 
 ## 🧠 Core Stack
 
-`Node.js` · `TypeScript` · `Next.js` · `AWS` · `Serverless` · `PostgreSQL` · `Prisma` · `Odoo`  
+`Node.js` · `TypeScript` · `Next.js` · `AWS` · `Serverless` · `PostgreSQL` · `Prisma` · `Odoo`
 
 ---
-
 ## 📌 Featured Work
 
 Check pinned repositories for selected production-level projects.
