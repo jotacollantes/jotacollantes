@@ -98,6 +98,12 @@ A curated index of my repos (Projects) organized by technology:
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/J2-UI-PROJECTS">
+    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/172938185?s=200&v=4" alt="GraphQl"/>
+   <strong>GraphQl</strong>
+  </a>
+</p>
 
 ---
 
