@@ -71,7 +71,7 @@ A curated index of my repos (Projects) organized by technology:
 </p>
 
 <p align="left">
-  <a href="[https://github.com/J2-Python](https://github.com/J2-ODOO-PROJECTS)">
+  <a href="https://github.com/J2-ODOO-PROJECTS">
     <img width="40" height="40" src="https://avatars.githubusercontent.com/u/202017709?s=200&v=4" alt="Odoo"/>
    <strong>Odoo</strong>
   </a>
