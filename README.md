@@ -44,7 +44,7 @@ A curated index of my repos (Projects) organized by technology:
 
 <p align="left">
   <a href="https://github.com/orgs/J2-NESTJS-PROJECTS">
-    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/241236780?s=200&v=4" alt="Nest.js"/>
+    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/163171494?s=200&v=4" alt="Nest.js"/>
    <strong>Nest.js</strong>
   </a>
 </p>
