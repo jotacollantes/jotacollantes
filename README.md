@@ -29,7 +29,7 @@ I design and develop production-ready applications with a strong focus on:
 A curated index of my repos (Projects) organized by technology:
 
 <p align="left">
-  <a href="https://github.com/orgs/J2-AWS-LAMBDA/repositories">
+  <a href="https://github.com/orgs/J2-AWS-LAMBDA">
     <img width="40" height="40" src="https://avatars.githubusercontent.com/u/262396797?s=200&v=4" alt="AWS Lambda"/>
    <strong>AWS Lambda & Serverless</strong>
   </a>
@@ -43,11 +43,19 @@ A curated index of my repos (Projects) organized by technology:
 </p>
 
 <p align="left">
+  <a href="https://github.com/orgs/J2-NESTJS-PROJECTS">
+    <img width="40" height="40" src="https://avatars.githubusercontent.com/u/241236780?s=200&v=4" alt="Nest.js"/>
+   <strong>Nest.js</strong>
+  </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/J2-NODEJS-EXPRESS">
     <img width="40" height="40" src="https://avatars.githubusercontent.com/u/241236780?s=200&v=4" alt="Node.js"/>
    <strong>Node.js / Express APIs</strong>
   </a>
 </p>
+
 
 ---
 
