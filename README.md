@@ -26,7 +26,7 @@ I design and develop production-ready applications with a strong focus on:
 
 ## 🚀 Playground
 
-A curated index of my projects organized by technology:
+A curated index of my repos (Projects) organized by technology:
 
 <p align="left">
   <a href="https://github.com/orgs/J2-AWS-LAMBDA/repositories">
