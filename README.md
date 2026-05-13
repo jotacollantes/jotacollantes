@@ -64,7 +64,7 @@ A curated index of my repos (Projects) organized by technology:
 </p>
 
 <p align="left">
-  <a href="https://github.com/J2-REACT-19">
+  <a href="https://github.com/J2-REACT-NATIVE">
     <img width="40" height="40" src="https://avatars.githubusercontent.com/u/284432290?s=400&u=8ff4e8d1850eb3bbacf438ffec162c09582066a3&v=4" alt="React Native"/>
    <strong>React Native</strong>
   </a>
